@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="hello_evgenia">Hello Evgenia from RES!</string>
+    <string name="text_new">This text is new!</string>
+</resources>
